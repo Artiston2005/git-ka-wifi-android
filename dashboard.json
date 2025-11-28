@@ -1,21 +1,21 @@
-{
-  "type": "card",
-  "title": "📊 Quick Poll",
-  "body": "Which feature should we build next? Tap to vote!",
-  "buttons": [
-    {
-      "text": "Dark Mode v2",
-      "action": {
-        "type": "url",
-        "value": "https://docs.google.com/forms/d/e/.../viewform?entry.12345=DarkMode"
+[
+  {
+    "type": "image",
+    "url": "https://i0.wp.com/bestgrafix.com/wp-content/uploads/2024/12/2-2.jpg?resize=1024%2C1024&ssl=1",
+    "height": 300
+  },
+  {
+    "type": "poll",
+    "question": "When should we host the hackathon?",
+    "options": [
+      {
+        "text": "This Weekend",
+        "action": { "type": "toast", "value": "Vote recorded: This Weekend" }
+      },
+      {
+        "text": "Next Month",
+        "action": { "type": "toast", "value": "Vote recorded: Next Month" }
       }
-    },
-    {
-      "text": "Auto-Logout",
-      "action": {
-        "type": "url",
-        "value": "https://docs.google.com/forms/d/e/.../viewform?entry.12345=AutoLogout"
-      }
-    }
-  ]
-}
+    ]
+  }
+]
