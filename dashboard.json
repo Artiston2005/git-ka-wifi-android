@@ -7,3 +7,24 @@
     "value": "Merry Christmas!"
   }
 }
+{
+  "type": "card",
+  "title": "📊 Quick Poll",
+  "body": "Which feature should we build next? Tap to vote!",
+  "buttons": [
+    {
+      "text": "Dark Mode v2",
+      "action": {
+        "type": "url",
+        "value": "https://docs.google.com/forms/d/e/.../viewform?entry.12345=DarkMode"
+      }
+    },
+    {
+      "text": "Auto-Logout",
+      "action": {
+        "type": "url",
+        "value": "https://docs.google.com/forms/d/e/.../viewform?entry.12345=AutoLogout"
+      }
+    }
+  ]
+}
