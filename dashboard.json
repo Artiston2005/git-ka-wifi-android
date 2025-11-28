@@ -1,13 +1,4 @@
 {
-  "type": "image",
-  "url": "https://i0.wp.com/bestgrafix.com/wp-content/uploads/2024/12/2-2.jpg?resize=1024%2C1024&ssl=1",
-  "height": 300,
-  "action": {
-    "type": "toast",
-    "value": "Merry Christmas!"
-  }
-}
-{
   "type": "card",
   "title": "📊 Quick Poll",
   "body": "Which feature should we build next? Tap to vote!",
