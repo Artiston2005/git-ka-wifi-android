@@ -1,6 +1,6 @@
 {
   "versionCode": 2,
-  "versionName": "1.1",
+  "versionName": "1.5",
   "apkUrl": "https://github.com/YourRepo/releases/download/v1.1/gitkawifi.apk",
   "releaseNotes": "- Fixed login bug\n- Added auto-updater"
 }
