@@ -1,6 +1,6 @@
 {
   "versionCode": 2,
   "versionName": "1.5",
-  "apkUrl": "https://github.com/YourRepo/releases/download/v1.1/gitkawifi.apk",
+  "apkUrl": "https://release-assets.githubusercontent.com/github-production-release-asset/1105311426/c17eaa5e-f19c-4147-9d60-5e807a59ffce?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-11-28T18%3A18%3A04Z&rscd=attachment%3B+filename%3Dapp-debug.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-11-28T17%3A18%3A02Z&ske=2025-11-28T18%3A18%3A04Z&sks=b&skv=2018-11-09&sig=AwfldB0slipalKM366LjNiMp7MJf%2Fl5gR4YMNAUzR7E%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2NDM1MDYwMCwibmJmIjoxNzY0MzUwMzAwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.0Ptct0g3XxjTLLJmdiL022oh7ojnA2tr0V3p5JComYU&response-content-disposition=attachment%3B%20filename%3Dapp-debug.apk&response-content-type=application%2Fvnd.android.package-archive",
   "releaseNotes": "- Fixed login bug\n- Added auto-updater"
 }
