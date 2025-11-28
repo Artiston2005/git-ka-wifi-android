@@ -1,6 +1,6 @@
 {
   "versionCode": 3,
   "versionName": "2.0",
-  "apkUrl": "https://github.com/Artiston2005/git-ka-wifi-android/releases/download/v1.5/app-debug.apk",
-  "releaseNotes": "- Fixed login bug\n- Added auto-updater"
+  "apkUrl": "https://github.com/Artiston2005/git-ka-wifi-android/releases/download/v2.0/app-release.apk",
+  "releaseNotes": "- Fixed login bug\n- Added boot startup\n- Some minor bug fixes\n- Karlo Update Yaar"
 }
