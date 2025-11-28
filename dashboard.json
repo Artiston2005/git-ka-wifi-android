@@ -1,8 +1,34 @@
 [
   {
     "type": "alert",
-    "content": "Exam schedule released! Check university portal.",
-    "variant": "error"
+    "variant": "info",
+    "content": "🎉 Welcome to the new semester!"
+  },
+  {
+    "type": "card",
+    "title": "Quick Links",
+    "body": "Access important university resources.",
+    "buttons": [
+      {
+        "text": "Portal",
+        "action": { "type": "url", "value": "[https://portal.university.edu](https://portal.university.edu)" }
+      },
+      {
+        "text": "Library",
+        "action": { "type": "url", "value": "[https://library.university.edu](https://library.university.edu)" }
+      }
+    ]
+  },
+  { "type": "divider" },
+  {
+    "type": "text",
+    "content": "Latest Downloads",
+    "style": "bold",
+    "size": 18
+  },
+  {
+    "type": "document",
+    "name": "Holiday List 2025",
+    "url": "[https://example.com/holidays.pdf](https://example.com/holidays.pdf)"
   }
-  
 ]
