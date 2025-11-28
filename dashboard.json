@@ -1,34 +1,6 @@
-[
-  {
-    "type": "alert",
-    "variant": "info",
-    "content": "🎉 Welcome to the new semester!"
-  },
-  {
-    "type": "card",
-    "title": "Quick Links",
-    "body": "Access important university resources.",
-    "buttons": [
-      {
-        "text": "Portal",
-        "action": { "type": "url", "value": "[https://portal.university.edu](https://portal.university.edu)" }
-      },
-      {
-        "text": "Library",
-        "action": { "type": "url", "value": "[https://library.university.edu](https://library.university.edu)" }
-      }
-    ]
-  },
-  { "type": "divider" },
-  {
-    "type": "text",
-    "content": "Latest Downloads",
-    "style": "bold",
-    "size": 18
-  },
-  {
-    "type": "document",
-    "name": "Holiday List 2025",
-    "url": "[https://example.com/holidays.pdf](https://example.com/holidays.pdf)"
-  }
-]
+{
+ "type": "image",
+ "url": "[https://www.google.com/imgres?q=happy%20christmas&imgurl=https%3A%2F%2Fi0.wp.com%2Fbestgrafix.com%2Fwp-content%2Fuploads%2F2024%2F12%2F2-2.jpg%3Fresize%3D1024%252C1024%26ssl%3D1&imgrefurl=https%3A%2F%2Fbestgrafix.com%2Fblogs%2Fmerry-christmas-images-2%2F&docid=U16qR_2OfPx5aM&tbnid=m4Xw9Y0pHz_4ZM&vet=12ahUKEwihsubZ_5WRAxWGS2wGHfRJH-IQM3oECBwQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwihsubZ_5WRAxWGS2wGHfRJH-IQM3oECBwQAA](https://www.google.com/imgres?q=happy%20christmas&imgurl=https%3A%2F%2Fi0.wp.com%2Fbestgrafix.com%2Fwp-content%2Fuploads%2F2024%2F12%2F2-2.jpg%3Fresize%3D1024%252C1024%26ssl%3D1&imgrefurl=https%3A%2F%2Fbestgrafix.com%2Fblogs%2Fmerry-christmas-images-2%2F&docid=U16qR_2OfPx5aM&tbnid=m4Xw9Y0pHz_4ZM&vet=12ahUKEwihsubZ_5WRAxWGS2wGHfRJH-IQM3oECBwQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwihsubZ_5WRAxWGS2wGHfRJH-IQM3oECBwQAA)",
+ "height": 250,
+}
+
