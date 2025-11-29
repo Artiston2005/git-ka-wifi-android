@@ -5,6 +5,11 @@
     "height": 250
   },
   {
+  "type": "webview",
+  "url": "https://www.youtube.com/embed/aS7al94FVbk",
+  "height": 250
+  },
+  {
     "type": "poll",
     "question": "When should we host the hackathon?",
     "options": [
