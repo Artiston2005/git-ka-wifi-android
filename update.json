@@ -1,6 +1,6 @@
 {
   "versionCode": 6,
   "versionName": "7.0",
-  "apkUrl": "https://github.com/Artiston2005/git-ka-wifi-android/releases/download/v7.0/gitkawifi_final.apk",
-  "releaseNotes": "- Introducing Material UI 3 \n- Dyanamic Content Updator \n- Introduces guest mide \n- Major bug fixes\n- Cheers,Ashwin Yadav (Developer)"
+  "apkUrl": "https://github.com/Artiston2005/git-ka-wifi-android/releases/download/v7.0/gitka.wifi.v7.0.apk",
+  "releaseNotes": "- Introducing Material UI 3 \n- Dyanamic Content Updator \n- Introduces guest mide \n- Major bug fixes\n- Cheers,Ashwin Yadav (Developer)\n- After this update backend is now firebase. So, future updates can improve app functionality drastically"
 }
